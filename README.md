@@ -4,6 +4,8 @@ Docker playground
 Setup
 -----
 
+**You will need admin rights in order to follow the instructions!**
+
 * [Install VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [Install Vagrant](http://docs.vagrantup.com/v2/installation/)
 * [Install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
